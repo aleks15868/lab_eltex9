@@ -1,1 +1,1 @@
-Документация: https://github.com/aleks15868/lab_eltex_homework9_file_system
+Документация: https://aleks15868.github.io/lab_eltex_homework9_file_system/
